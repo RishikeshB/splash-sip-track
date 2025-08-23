@@ -1,8 +1,15 @@
-# Welcome to your Lovable project
+# Water Reminder - Remind Drink 💧
 
-## Project info
+A comprehensive marketing website for the Water Reminder app, featuring smart hydration tracking, team collaboration, and multi-platform notifications.
 
-**URL**: https://lovable.dev/projects/7df5f0fb-e34b-4a34-a997-f4bcdba4ae72
+## 🌟 Features
+
+- **Smart Reminders**: Personalized notifications across Teams, WhatsApp, and Messenger
+- **Progress Tracking**: Beautiful analytics and hydration journey visualization  
+- **Team Collaboration**: Organization-wide wellness programs and challenges
+- **Multi-Platform**: Seamless integration with Microsoft Teams, WhatsApp, and Facebook Messenger
+- **Referral Program**: Earn rewards for sharing with friends and colleagues
+- **Enterprise Ready**: Scalable solutions for organizations of all sizes
 
 ## How can I edit this code?
 
